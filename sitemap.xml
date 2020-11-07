@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.hollenstein-storen.ch/</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2020-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://www.hollenstein-storen.ch/ueber</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2020-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://www.hollenstein-storen.ch/reparaturmeldung</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2020-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://www.hollenstein-storen.ch/kontakt</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2020-05-20</lastmod>
+    </url>
+</urlset>
